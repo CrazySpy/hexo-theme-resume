@@ -11,7 +11,7 @@ cdn:
   fancybox:
     css: https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5/dist/jquery.fancybox.min.css
     js: https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5/dist/jquery.fancybox.min.js
-
+  fontawesome: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css
 # robots meta tag
 robots: noindex,nofollow
 

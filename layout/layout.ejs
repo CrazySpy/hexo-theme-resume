@@ -32,7 +32,12 @@
       <% }) %>
     <% } %>
 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.1/css/all.min.css">
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.1/css/all.min.css"> -->
+    <% if (theme.cdn.fontawesome) { %>
+      <%- css(theme.cdn.fontawesome) %>
+    <% } %>
+
+
     <% if (theme.cdn.fancybox && theme.cdn.fancybox.css) { %>
       <%- css(theme.cdn.fancybox.css) %>
     <% } %>
