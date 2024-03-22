@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xaoxuu/hexo-theme-resume.git"
+    "url": "git+https://github.com/crazyspy/hexo-theme-resume.git"
   },
   "keywords": [
     "hexo",
     "theme",
     "resume"
   ],
-  "author": "xaoxuu (https://github.com/xaoxuu/)",
+  "author": "Xiwen Jiang (https://github.com/crazyspy/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xaoxuu/hexo-theme-resume/issues"
+    "url": "https://github.com/crazyspy/hexo-theme-resume/issues"
   },
-  "homepage": "https://resume.js.org",
+  "homepage": "https://www.xiwenjiang.me",
   "devDependencies": {
     "hexo": "5.2.0"
   }
